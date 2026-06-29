@@ -1,4 +1,4 @@
-# 
+# Nouveau AI Recipe Recommender modèles. Avec traitement du langage naturel et entraînement de modèles — optimisé pour des performances maximales.
 
 
 
